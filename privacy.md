@@ -29,3 +29,6 @@ We will post changes on this page and update the date above. If a change describ
 Questions about this policy:
 
 - **Email:** desoxydate@gmail.com
+
+### 6. Related
+- [Terms of Use / EULA (English)](https://sudolee.github.io/atpr-privacy/terms)

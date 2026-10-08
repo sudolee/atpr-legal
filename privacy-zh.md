@@ -29,3 +29,6 @@ ATPR 是面向一般用户的力量训练记录工具，不以 13 岁以下儿�
 对本政策有疑问，请联系：
 
 - **电子邮箱：** desoxydate@gmail.com
+
+### 6. 相关文档
+- [用户使用条款 / EULA（中文）](https://sudolee.github.io/atpr-privacy/terms-zh)
